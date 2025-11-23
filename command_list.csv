@@ -1,0 +1,74 @@
+    1  cd ..
+    2  git help
+    3  git clone
+    4  dir
+    5  git clone 
+    6  git clone HW_10
+    7  git clone "HW_10"
+    8  git clone HW_10
+    9  git clone [200~https://github.com/maksymrakyta/HW_10.git~
+   10  git clone https://github.com/maksymrakyta/HW_10.git
+   11  dir
+   12  cd HW_10
+   13  touch text_ignore.txt
+   14  dir
+   15  nano .gitignore
+   16  cd ~/desktop/Git
+   17  dir
+   18  cd HW_10
+   19  git status
+   20  nano .gitignore
+   21  git status
+   22  git add
+   23  git add .gitignore
+   24  git status
+   25  git commit -m "text_ignore.txt added to .gitignore"
+   26  git status
+   27  git add .
+   28  git commit
+   29  git status
+   30  touch main_test.txt
+   31  git add .
+   32  git commit
+   33  git status
+   34  cd desktop/git
+   35  dir
+   36  cd HW_10
+   37  dir
+   38  nano .gitignore
+   39  dir
+   40  git push
+   41  dir
+   42  nano .gitignor
+   43  nano .gitignore
+   44  dir
+   45  dir
+   46  dir
+   47  git status
+   48  git commit -m "adding text_main.txt"
+   49  git status
+   50  git checkour -b "developer"
+   51  git status
+   52  git checkout developer
+   53  dir
+   54  git branch
+   55  git checkout -b developer
+   56  touch develop_text.txt
+   57  git add .
+   58  git commit -m "added develop_text.txt to developer branch"
+   59  git status
+   60  nano develop_text.txt
+   61  git status
+   62  git add .
+   63  git commit -m "text file develop_text.txt has been redacted
+git commit -m "text file develop_text.txt has been redacted"
+git commit -m "text file develop_text.txt has been redacted
+   64  git commit -m "text file develop_text.txt has been redacted"
+   65  git commit -m "text file develop_text.txt has been redacted"
+   66  git status
+   67  nano develop_text.txt
+   68  git checkout main
+   69  git merge developer
+   70  git status
+   71  git log
+   72  history>command_list.csv
